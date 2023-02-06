@@ -1,2 +1,5 @@
-package payroll;public class Employee {
+package payroll;
+
+@Entity
+class Employee {
 }

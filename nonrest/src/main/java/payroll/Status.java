@@ -1,2 +1,7 @@
-package payroll;public class Status {
+package payroll;
+
+enum Status {
+    IN_PROGRESS, //
+    COMPLETED, //
+    CANCELLED
 }
